@@ -17,7 +17,8 @@ The goal was to explore survival patterns and understand relationships between v
 - Gaining insights through feature-wise exploration
 
 "Files in this Repository"
-- 'ScreenShots' -> Screenshots of the results
+- `Task_2_ScreenShots.pdf` -> Screenshots of the results
 - `Titanic_eda.ipynb` -> Jupyter Notebook implementation
+- 
 
 
