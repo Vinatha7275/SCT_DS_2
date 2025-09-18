@@ -17,7 +17,7 @@ The goal was to explore survival patterns and understand relationships between v
 - Gaining insights through feature-wise exploration
 
 "Files in this Repository"
-- `SCT_DS_2_Final.pdf` → Final task report
-- `Titanic_EDA.ipynb` → Jupyter Notebook implementation (if included)
+- 'ScreenShots' -> Screenshots of the results
+- `Titanic_eda.ipynb` -> Jupyter Notebook implementation
 
 
